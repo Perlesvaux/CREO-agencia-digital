@@ -1,0 +1,20 @@
+# Ignore node_modules in all packages
+packages/*/node_modules/
+packages/*/dist/
+packages/*/build/
+
+# Ignore root node_modules
+node_modules/
+package-lock.json
+
+# Ignore OS-specific files
+.DS_Store
+
+packages/site/_site
+packages/site/.sass-cache
+packages/site/.jekyll-cache
+packages/site/.jekyll-metadata
+packages/site/vendor
+packages/site/components
+_site/
+packages/site/Gemfile.lock
