@@ -4,6 +4,6 @@
 
 layout: home
 ---
-<script type="module" crossorigin src="{% link assets/home-screen/index.js %}"></script>
-<link rel="stylesheet" crossorigin href="{% link assets/home-screen/index.css %}">
+<script type="module" crossorigin src="{{ site.baseurl }}{% link assets/home-screen/index.js %}"></script>
+<link rel="stylesheet" crossorigin href="{{ site.baseurl }}{% link assets/home-screen/index.css %}">
 <div id="root"></div>

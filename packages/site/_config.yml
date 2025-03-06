@@ -60,3 +60,4 @@ plugins:
 #
 banner_image: /assets/images/banner.png
 
+safe: false

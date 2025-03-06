@@ -7,8 +7,8 @@ permalink: /deeds/
 
 ## 2025
 
-<script type="module" crossorigin src="{% link assets/deeds-screen/index.js %}"></script>
-<link rel="stylesheet" crossorigin href="{% link assets/deeds-screen/index.css %}">
+<script type="module" crossorigin src="{{ site.baseurl }}{% link assets/deeds-screen/index.js %}"></script>
+<link rel="stylesheet" crossorigin href="{{ site.baseurl }}{% link assets/deeds-screen/index.css %}">
 <div id="root"></div>
 
 2024
