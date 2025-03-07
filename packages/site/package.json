@@ -1,0 +1,13 @@
+{
+  "name": "site",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "predeploy": "bundle exec jekyll build",
+    "deploy": "gh-pages -d _site"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}

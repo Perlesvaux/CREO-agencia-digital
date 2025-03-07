@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   8 YEARS | Unstoppable Creativity!
 
   Hablemos de tu marca, el café va por nosotros. ☕
-baseurl: "/CREO" # the subpath of your site, e.g. /blog
+baseurl: "/CREO-agencia-digital" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: CREOAgenciaDigital
 instagram_username: creoagenciadigital
